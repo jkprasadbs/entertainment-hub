@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/entertainment-hub/static/css/main.e60e6130.css",
+    "main.js": "/entertainment-hub/static/js/main.8d19283d.js",
+    "index.html": "/entertainment-hub/index.html",
+    "main.e60e6130.css.map": "/entertainment-hub/static/css/main.e60e6130.css.map",
+    "main.8d19283d.js.map": "/entertainment-hub/static/js/main.8d19283d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e60e6130.css",
+    "static/js/main.8d19283d.js"
+  ]
+}
